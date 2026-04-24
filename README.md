@@ -113,7 +113,7 @@ código:
 
    •	Luego nos dirigimos a la base de datos MySQL para verificar que la conexión fue exitosa, para ello hacemos click en usuarios del phpMyAdmin.
 
-   ![image](https://github.com/user-attachments/assets/c3e004ad-f336-4426-9998-01f543b67f6f)
+   ![image](https://github.com/user-attachments/assets/31995636-ecc0-4dad-a1c0-76b76127213b)
 
    
 
