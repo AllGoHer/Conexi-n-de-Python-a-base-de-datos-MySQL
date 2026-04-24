@@ -54,9 +54,9 @@ código:
 
 Donde:
 
-•	& "C:/Users/User/AppData/Local/Python/bin/python.exe"   es tu ruta donde tienes python.
+•	& "C:/Users/User/AppData/Local/Python/bin/python.exe"      es tu ruta donde tienes python.
 
-•	-m pip install mysql-connector-python    es el comando que instala el paquete de MySQL.
+•	-m pip install mysql-connector-python        es el comando que instala el paquete de MySQL.
 
 ![image](https://github.com/user-attachments/assets/e8804eec-83bc-4c63-81c3-9ad83a8f7081)
 
@@ -118,7 +118,7 @@ código:
    
 
    
-![image](https://github.com/user-attachments/assets/d59ab7cc-29c0-4333-a0dd-fa9cee68e68d)
+![image](https://github.com/user-attachments/assets/e603ec5e-95ab-4544-9e2e-34c49b3eaf90)
 
 
 
