@@ -1,1 +1,1 @@
-# Conexi-n-de-Python-a-base-de-datos-MySQL
+# Conexión de Python a base de datos MySQL  ![image](https://github.com/user-attachments/assets/0ec69129-e2c9-4b13-9362-60f53799c1ee) ![image](https://github.com/user-attachments/assets/8d8cb19c-928c-4e37-a011-13dbdaa6551d)
